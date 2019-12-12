@@ -1,6 +1,6 @@
 #include <iostream>
 void simon(int);
-int main()
+int main1()
 {
 	using namespace std;
 	simon(3);
