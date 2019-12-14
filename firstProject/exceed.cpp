@@ -2,7 +2,7 @@
 #define ZERO 0
 #include <climits>
 
-int main()
+int main3()
 {
 	using namespace std;
 	short sam = SHRT_MAX;
