@@ -115,7 +115,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3-6.cpp" />
+    <ClCompile Include="arrayone.cpp" />
     <ClCompile Include="chartype.cpp" />
+    <ClCompile Include="divide.cpp" />
     <ClCompile Include="exceed.cpp" />
     <ClCompile Include="floatnum.cpp" />
     <ClCompile Include="hexoct.cpp" />
@@ -123,6 +126,7 @@
     <ClCompile Include="limits.cpp" />
     <ClCompile Include="morechar.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="typecast.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
